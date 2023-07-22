@@ -2,25 +2,25 @@
 
 **Index:**
   
-0. [Foreword](#0-foreword)
-1. [The Alphabet and Sound System](#1-the-alphabet-and-sound-system)
-  1.1 [The Consonants](#11-the-consonants)
-  1.2 [The Vowels](#12-the-vowels)
-  1.3 [Phonology Explanation](#13-phonology-explanation)
-2. [Particles and Syntactic Grammar](#2-particles-and-syntactic-grammar)
-  2.1 [Noun Particles](#21-noun-particles)
-  2.2 [Pronouns](#22-pronouns)
-  2.3 [Verb Modifiers](#23-verb-modifiers)
-  2.4 [Word Function Modifiers](#24-word-function-modifiers)
-  2.5 [Independent Particles and Complex Sentences](#independent-particles-and-complex-sentences)
-  2.6 [Numbers](#26-numbers)
-  2.7 [Honorifics](#27-honorifics)
-  2.8 [Other notes on grammar](#28-other-notes-on-grammar)
-3. [Vocabulary](#3-vocabulary)
-  3.1 [Loaning from Classical Chinese](#31-loaning-from-classical-chinese)
-  3.2 [Loaning from Sanskrit](#32-loaning-from-sanskrit)
-  3.3 [Loaning from Latin](#33-loaning-from-latin)
-  3.4 [Loaning Words from Other Languages](#34-loaning-words-from-other-languages)
+0. [Foreword](#0-foreword)  
+1. [The Alphabet and Sound System](#1-the-alphabet-and-sound-system)   
+    1.1 [The Consonants](#11-the-consonants)  
+    1.2 [The Vowels](#12-the-vowels)  
+    1.3 [Phonology Explanation](#13-phonology-explanation)  
+2. [Particles and Syntactic Grammar](#2-particles-and-syntactic-grammar)  
+    2.1 [Noun Particles](#21-noun-particles)  
+    2.2 [Pronouns](#22-pronouns)  
+    2.3 [Verb Modifiers](#23-verb-modifiers)  
+    2.4 [Word Function Modifiers](#24-word-function-modifiers)  
+    2.5 [Independent Particles and Complex Sentences](#25-independent-particles-and-complex-sentences)  
+    2.6 [Numbers](#26-numbers)  
+    2.7 [Honorifics](#27-honorifics)  
+    2.8 [Other notes on grammar](#28-other-notes-on-grammar)  
+3. [Vocabulary](#3-vocabulary)  
+  3.1 [Loaning from Classical Chinese](#31-loaning-from-classical-chinese)  
+  3.2 [Loaning from Sanskrit](#32-loaning-from-sanskrit)  
+  3.3 [Loaning from Latin](#33-loaning-from-latin)  
+  3.4 [Loaning Words from Other Languages](#33-loaning-words-from-other-languages)  
   
 
 # 0. Foreword
@@ -247,7 +247,7 @@ Functionals can also be negated with a _but-_. In those cases, it is assumed tha
 In Manmino, numbers are used to mark abstract value, quantities, or place in a list.
 Abstract values are expressed either in their isolated Sanskrit form (for numbers 0-10) or as a compound formed from Sinitic roots (any other numbers). Quantities are expressed the same way, but they must be followed by a counter word and then a _-ji_ . The counter _hway_ is used for the amount of an action, _gay_ is used for countable inanimate nouns, _dow_ is used for animals, and _meng_ is used for people. Ordinal numbers take a prefix _je-_ as well as the suffix _-ji_.   
 
-## 2.7  Honorifics
+## 2.7 Honorifics
 In Manmino, there are three degrees of marking honorifics to consider. First is the respectful honorific level. In Manmino, one may mark respect for a referent by not using personal pronouns or names and instead using titles. If the referent is the subject of a phrase, the honorific marker _-si-_ should be used in the verb (See 2.2 Verb Modifiers). The second degree of honorifics is neutral, which is unmarked. The last degree of honorifics is intimate, which involves the use of the intimate pronouns _kun_, _nyang_, _ini_, or a nickname in place of a formal name or title. 
 
 ## 2.8 Other notes on grammar
